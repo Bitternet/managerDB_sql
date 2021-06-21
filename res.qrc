@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>images/databasesearch_basededato_12920.png</file>
+        <file>images/weby_analytics-statistics-128.png</file>
+        <file>images/stats.png</file>
+        <file>images/icons8-добавить-свойство-32.png</file>
+        <file>images/icons8-добавить-свойство-32(1).png</file>
+        <file>images/icons8-перезапуск-48.png</file>
+        <file>images/icons8-перезапуск-40.png</file>
+        <file>images/icons8-экспорт-в-csv-48.png</file>
+        <file>images/icons8-csv-48.png</file>
+        <file>images/pressure.png</file>
+    </qresource>
+</RCC>
